@@ -4,7 +4,7 @@
 Cyclistic provides flexibility of its pricing plans in order to appeal to the broad consumer segments. Single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members. The finance analysts have concluded that annual members are much more profitable than casual riders so the head of marketing has decided that maximizing higher annual membership would be more profitable and better for the overall companies’ growth. 
 The Business task of this project would be to find ways to make the Cyclistic subscriptions more profitable, the specific task would be to find the difference in patterns and trends between the members and casual riders in order for better targeted marketing that would drive greater membership subscriptions.
 In this project, I will be analysing the data for the bike share company found in [this link.](http://www.divvybikes.com/data). <br>
-The anaalysis covered a one year period from july 2021 to june 2022
+The analysis covered a one year period from july 2021 to june 2022
 
 #  DATA STRUCTURE
 The cleaned Cyclistic data set has 4612376 rows and 10 columns. The data ranges from july 2021 to june 2022. This shows the data set is huge and recent which means credible insights can be generayed from them. The data has different data types which include: <br>
